@@ -80,7 +80,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/nairo/proprietary/vendor/etc/vhw.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vhw.xml \
     vendor/motorola/nairo/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
     vendor/motorola/nairo/proprietary/vendor/firmware/aw8695_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_haptic.bin \
+    vendor/motorola/nairo/proprietary/recovery/root/vendor/firmware/aw8695_haptic.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/aw8695_haptic.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/aw8695_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp.bin \
+    vendor/motorola/nairo/proprietary/recovery/root/vendor/firmware/aw8695_rtp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/aw8695_rtp.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/aw8695_rtp_Argo_Navis.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp_Argo_Navis.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/aw8695_rtp_Attentive.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp_Attentive.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/aw8695_rtp_Awake.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp_Awake.bin \
@@ -133,7 +135,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/nairo/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/focaltech-tianma-ft8756-0e-01-nairo.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-tianma-ft8756-0e-01-nairo.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw.bin \
+    vendor/motorola/nairo/proprietary/recovery/root/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts_fw.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_mp.bin \
+    vendor/motorola/nairo/proprietary/recovery/root/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts_mp.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/st21nfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/tianma_Himax_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tianma_Himax_firmware.bin \
     vendor/motorola/nairo/proprietary/vendor/firmware/tianma_Himax_mpfw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tianma_Himax_mpfw.bin \
