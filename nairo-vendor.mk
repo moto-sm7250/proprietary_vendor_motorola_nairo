@@ -163,7 +163,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/nairo/proprietary/vendor/lib/soundfx/libmaxxeffect-cembedded.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmaxxeffect-cembedded.so \
     vendor/motorola/nairo/proprietary/vendor/lib/soundfx/libmmieffectswrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmmieffectswrapper.so \
     vendor/motorola/nairo/proprietary/vendor/lib/soundfx/libspeakerbundle.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libspeakerbundle.so \
-    vendor/motorola/nairo/proprietary/vendor/lib/vndk/libtinyalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/vndk/libtinyalsa.so \
+    vendor/motorola/nairo/proprietary/vendor/lib/libtinyalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyalsa.so \
     vendor/motorola/nairo/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_dw9767_s5kgm1sp_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_dw9767_s5kgm1sp_eeprom.so \
     vendor/motorola/nairo/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov16a1q_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov16a1q_eeprom.so \
     vendor/motorola/nairo/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov2180_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p64b_ov2180_eeprom.so \
